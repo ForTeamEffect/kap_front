@@ -1,0 +1,23 @@
+export const countries = [
+  { name: "Mexico", value: "MX" },
+  { name: "United States", value: "US" },
+  { name: "Canada", value: "CA" },
+  { name: "Argentina", value: "AR" },
+  { name: "Brazil", value: "BR" },
+  { name: "Chile", value: "CL" },
+  { name: "Colombia", value: "CO" },
+  { name: "Peru", value: "PE" },
+  { name: "Spain", value: "ES" },
+  { name: "United Kingdom", value: "GB" },
+  { name: "France", value: "FR" },
+  { name: "Germany", value: "DE" },
+  { name: "Italy", value: "IT" },
+  { name: "Japan", value: "JP" },
+  { name: "China", value: "CN" },
+  { name: "Australia", value: "AU" },
+  { name: "New Zealand", value: "NZ" },
+  { name: "India", value: "IN" },
+  { name: "Russia", value: "RU" },
+  { name: "South Africa", value: "ZA" },
+]
+
